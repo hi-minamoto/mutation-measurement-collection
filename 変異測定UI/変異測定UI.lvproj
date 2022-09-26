@@ -169,7 +169,7 @@
 				<Property Name="Destination[1].destName" Type="Str">サポートディレクトリ</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/変異測定アプリ_トライ仕様</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{9D452F52-BD4D-40CF-A86D-2C5A886411F7}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{D454B9F5-0BA0-4D9F-A18A-2F1AE498BF51}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/マイ コンピュータ/TOP画面.vi</Property>
